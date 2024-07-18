@@ -1,33 +1,14 @@
-### Highlights
-1. Setup is very easy and you get a portfolio template of your own for free.
-2. To add your details, you just need simple editing skills. No code changes required!
-3. Simple and Fast website User Interface.
+#### Acerca de mí
+Actualmente, curso el séptimo ciclo de la carrera de Ingeniería de Sistemas de Información en la Universidad Peruana de Ciencias Aplicadas, donde me ubico en el tercio superior.
 
-#### About Tab
-![About Tab](https://i.postimg.cc/WpCWc7gB/1.png)
+Durante mi formación universitaria, he adquirido un amplio conocimiento en programación, desarrollo de software, implementación y gestión de bases de datos relacionales y no relacionales y análisis de datos lenguajes como Java, Python, C++, SQL, entre otros. Mi educación me ha brindado una base sólida para resolver problemas complejos y diseñar sistemas eficientes.
 
-#### Skills Tab
-![Skills Tab](https://i.postimg.cc/HL6zZ0TP/2.png)
+#### Habilidades Técnicas
 
-#### Project Tab
+
+#### Proyectos
 ![Project Tab](https://i.imgur.com/u4oyV6r.png)
 
-#### Contact Tab
-![Contact Tab](https://i.postimg.cc/Y0WxCJYJ/4.png)
 
-### Quick Start
-If you are reading this then I will assume that you know something about code and want to make a resume website of yours then this open-source project may help you setup it to showcase all your creations without effort.
-- For adding your avatar , You have to replace images/my.jpg with your square photo [Perfect size : 160 x 160].
-- For changing background image, You need to replace images/floor.jpg with your prefered background.
-- For changing rest of the information, simply open index.html and you can easily understand everything.
+### Contacto
 
-
-### Contributing
-Any and all contributions, issues, features and tips are welcome.
-
-### License
-**Portfolio-Template** is licence under [GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html)
-
-### Contact
-
-For any Suggestion / Ideas ping me at [@prateekis1](https://twitter.com/prateekis1)
