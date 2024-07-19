@@ -38,9 +38,3 @@ Durante mi formación universitaria, he adquirido un amplio conocimiento en prog
 ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-#### Proyectos
-![Project Tab](https://i.imgur.com/u4oyV6r.png)
-
-
-### Contacto
-
