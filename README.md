@@ -1,7 +1,9 @@
 #### Acerca de mí
-Actualmente, curso el séptimo ciclo de la carrera de Ingeniería de Sistemas de Información en la Universidad Peruana de Ciencias Aplicadas, donde me ubico en el tercio superior.
+Egresado de Ingeniería de Sistemas de Información con interés en el desarrollo de soluciones tecnológicas orientadas a la optimización de procesos y el análisis de información.
 
-Durante mi formación universitaria, he adquirido un amplio conocimiento en programación, desarrollo de software, implementación y gestión de bases de datos relacionales y no relacionales y análisis de datos lenguajes como Java, Python, C++, SQL, entre otros. Mi educación me ha brindado una base sólida para resolver problemas complejos y diseñar sistemas eficientes.
+Cuento con experiencia en programación, manejo de bases de datos y procesamiento de datos, utilizando herramientas como Python, SQL y tecnologías de software. Disfruto resolver problemas, automatizar tareas y transformar información en soluciones útiles y eficientes.
+
+En este repositorio comparto proyectos académicos y personales relacionados con desarrollo de software, análisis de datos y aprendizaje continuo en nuevas tecnologías.
 
 #### Habilidades Técnicas
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square)
